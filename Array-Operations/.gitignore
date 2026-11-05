@@ -1,0 +1,9 @@
+# Compiled program files
+*.exe
+array
+*.o
+
+# Editor / operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
